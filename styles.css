@@ -12,6 +12,10 @@
 	color:white;
 	
 }
+.media-icons{
+	display:flex;
+	justify-content:space-evenly;
+}
 .media-icons a{
 	text-decoration:none;
 }
