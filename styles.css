@@ -1,1 +1,46 @@
 /* your code here */
+.top{
+	padding:20px;
+	background-color:black;
+	display:flex;
+	justify-content:space-between;
+	
+}
+.logo_name{
+	font-size:20px;
+	font-family:arial;
+	color:white;
+	
+}
+.media-icons a{
+	text-decoration:none;
+}
+.media-icons img{
+	width:40px;
+	height:40px;
+	object-fit:contain;
+}
+.link-boxes{
+	background-color:black;
+	color:white;
+	display:flex;
+}
+.links>ul{
+	list-style-type:none;
+}
+.links>ul>li>a{
+	text-decoration:none;
+/* 	color:white; */
+}
+#link-heading{
+	text-decoration:underline;
+}
+.bottom-details{
+	padding:20px;
+	display:flex;
+	justify-content:space-between; 
+	background-color:darkgray;
+	color:white;
+}
+
+
